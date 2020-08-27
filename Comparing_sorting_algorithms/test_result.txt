@@ -1,0 +1,31 @@
+The execution time of bubble sort for 10 descending elements is: 0 milliseconds
+The execution time of bubble sort for 100 descending elements is: 0 milliseconds
+The execution time of bubble sort for 1000 descending elements is: 5 milliseconds
+The execution time of bubble sort for 10000 descending elements is: 80 milliseconds
+The execution time of bubble sort for 100000 descending elements is: 12981 milliseconds
+The execution time of bubble sort for 1000000 descending elements is: 1850826 milliseconds
+
+The execution time of insertion sort for 10 descending elements is: 0 milliseconds
+The execution time of insertion sort for 100 descending elements is: 0 milliseconds
+The execution time of insertion sort for 1000 descending elements is: 2 milliseconds
+The execution time of insertion sort for 10000 descending elements is: 121 milliseconds
+The execution time of insertion sort for 100000 descending elements is: 11975 milliseconds
+The execution time of insertion sort for 1000000 descending elements is: 1989125 milliseconds
+
+The execution time of merge sort for 10 descending elements is: 0 milliseconds
+The execution time of merge sort for 100 descending elements is: 0 milliseconds
+The execution time of merge sort for 1000 descending elements is: 1 milliseconds
+The execution time of merge sort for 10000 descending elements is: 113 milliseconds
+The execution time of merge sort for 100000 descending elements is: 13240 milliseconds
+The execution time of merge sort for 1000000 descending elements is: 1820818 milliseconds
+
+The execution time of quick sort for 10 descending elements is: 0 milliseconds
+The execution time of quick sort for 100 descending elements is: 0 milliseconds
+The execution time of quick sort for 1000 descending elements is: 1 milliseconds
+The execution time of quick sort for 10000 descending elements is: 116 milliseconds
+The execution time of quick sort for 100000 descending elements is: 8349 milliseconds
+The execution time of quick sort for 1000000 descending elements is: 891317 milliseconds
+
+
+
+
